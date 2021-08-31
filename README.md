@@ -1,2 +1,11 @@
 # ComandaEletronica
-Um aplicativo NO CODE da plataforma AppSheet
+```diff
++ Um aplicativo NO CODE criado por Felipe Manoel utilizando a plataforma AppSheet
+```
+Através de uma proposta de criação de um aplicativo sem codigos utilizei o AppSheet para construir 🛠 uma
+comanda eletronica. Esse aplicativo WEB pode ser executado pelo navegador ou pode ser executado no celular
+atraves do aplicativo do AppSheet.
+Coloque o link abaixo do browse do navegador e será direcionado para o aplicativo:
+
+https://www.appsheet.com/start/a65b941d-c129-482d-a9ed-c6a172b4c4ac
+
