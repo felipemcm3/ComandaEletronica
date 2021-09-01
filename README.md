@@ -10,7 +10,7 @@ Coloque o link abaixo do browse do navegador e será direcionado para o aplicati
 https://www.appsheet.com/start/a65b941d-c129-482d-a9ed-c6a172b4c4ac
 
 Infelizmente a plataforma AppSheet permite apenas 2 usuarios gratuitos do aplicativo.
-Mas vou colocar as imagens do aplicativo criado o site de criação.
+Mas vou colocar as imagens do aplicativo.
 
-https://www.appsheet.com/
+Plataforma de criação: https://www.appsheet.com/
 
